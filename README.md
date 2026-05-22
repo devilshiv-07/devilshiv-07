@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilshiv-07" alt="devilshiv-07" /></a> </p>
 
-- 🔭 I’m currently working on [Edumaniax](https://edumaniax.com/)
+- 🔭 I’m currently working on [Nected](https://www.nected.ai/)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops/System-Design**
 
 - 👨‍💻 All of my projects are available at [https://shivanktripathi.vercel.app/](https://shivanktripathi.vercel.app/)
 
