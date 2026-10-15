@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilshiv-07" alt="devilshiv-07" /></a> </p>
 
-- 🔭 I’m currently working on [Nected](https://www.nected.ai/)
+- 🔭 I’m currently working on [MAQ Software](https://maqsoftware.com/)
 
 - 🌱 I’m currently learning **Devops/System-Design**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **er.shivank07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/131Dghkcw87ZxZ22EC1VL5t6AybVMYNHO/view?usp=drive_link](https://drive.google.com/file/d/131Dghkcw87ZxZ22EC1VL5t6AybVMYNHO/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13QwdjSrkOVjSqXsHABGlK4kX4b1zvPBy/view?usp=drive_link](https://drive.google.com/file/d/13QwdjSrkOVjSqXsHABGlK4kX4b1zvPBy/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
